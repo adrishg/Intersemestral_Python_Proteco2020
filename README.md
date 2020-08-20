@@ -6,8 +6,10 @@ Este es el repositorio del curso de Python Intermedio y Avanzado que
 
  Titular: Adriana Hernández González
  Contacto:
+ 
  	correo: adriana.proteco@gmail.com
- 	telegram: adrmercurio
+  
+ 	telegram: adriana_hg
 
  Auxiliares: 	Tomas T. Arvizu Flores
  				Martin Enrique Chilpa Navarro 
